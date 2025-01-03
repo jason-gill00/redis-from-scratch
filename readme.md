@@ -1,4 +1,4 @@
-## Project
+## Redis From Scratch 
 
 In this project I create a redis server from scratch. This server is responsible for accepting redis commands from clients, master slave replication, RESP serialization/deserialization, and RDB persistence.
 
